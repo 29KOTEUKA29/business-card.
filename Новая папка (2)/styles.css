@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to right top, #adc1f0, #1a5a96);
+    color: black  ;
+}
+.avatar {
+    width: 200px;
+    border-radius: 25px;
+}
