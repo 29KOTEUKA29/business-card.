@@ -17,5 +17,7 @@ P {
     font-style: italic;
     width: 50%;
     margin: auto;
-    
 } 
+.pep {
+    text-align: center;
+}
